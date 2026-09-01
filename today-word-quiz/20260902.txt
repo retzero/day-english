@@ -1,0 +1,9 @@
+input: 입력
+beat: 이기다, 때리다
+knowledge: 지식
+wonder: 궁금해하다, 경이로움
+lawyer: 변호사
+pepper: 후추, 고추
+cell: 세포, 감방
+airport: 공항
+glad: 기쁜
