@@ -1,0 +1,8 @@
+graduate: 졸업하다, 졸업생
+alligator: 악어
+output: 생산, 결과물, 출력하다
+complete, 완벽한, 완료하다, 끝마치다
+ground: 땅, 운동장
+dirty: 더러운, 지저분한
+knife: 칼
+cheek: 뺨, 볼
