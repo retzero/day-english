@@ -1,0 +1,9 @@
+quarrel: 말다툼하다 (다툼)
+review: 검토하다 (복습/후기)
+scared: 무서워하는 (겁먹은)
+fancy: 화려한 (고급의/원하다)
+eager: 열망하는 (간절히 바라는)
+explain: 설명하다
+bone: 뼈
+shoot: 쏘다 (촬영하다)
+miss: 놓치다 (그리워하다)
