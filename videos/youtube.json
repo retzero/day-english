@@ -42,20 +42,20 @@
       {
         "text": "What are you doing templeton go go!",
         "text_ko": "템플턴, 지금 뭐 하는 거야? 빨리 가, 가!",
-        "start": 422,
-        "end": 425
+        "start": 423,
+        "end": 424
       },
       {
         "text": "But that's jaywalking.",
         "text_ko": "하지만 무단횡단인걸?",
-        "start": 425,
-        "end": 427
+        "start": 424,
+        "end": 426
       },
       {
         "text": "Here, I'll pay you your ticket.",
         "text_ko": "여기, 내가 딱지(범칙금) 값 줄게!",
-        "start": 427,
-        "end": 429
+        "start": 426,
+        "end": 428
       }
     ]
   }
