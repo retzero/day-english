@@ -7,7 +7,7 @@
     "level": 3,
     "dialogue": [
       {
-        "text": "Moana and they are not out there they're right",
+        "text": "Moana and they are not out there they're right.",
         "text_ko": "모아나, 그들은 저 멀리 있는 게 아니야. 바로 여기에 있어.",
         "start": 2340,
         "end": 2345
@@ -40,19 +40,19 @@
     "level": 3,
     "dialogue": [
       {
-        "text": "What are you doing templon go go",
+        "text": "What are you doing templeton go go!",
         "text_ko": "템플턴, 지금 뭐 하는 거야? 빨리 가, 가!",
         "start": 422,
         "end": 425
       },
       {
-        "text": "But that's jaywalking",
+        "text": "But that's jaywalking.",
         "text_ko": "하지만 무단횡단인걸?",
         "start": 425,
         "end": 427
       },
       {
-        "text": "Here, I'll pay you your ticket",
+        "text": "Here, I'll pay you your ticket.",
         "text_ko": "여기, 내가 딱지(범칙금) 값 줄게!",
         "start": 427,
         "end": 429
