@@ -35,27 +35,27 @@
   {
     "id": "70e507ed-9b43-47c7-a40e-c2ff135349b4",
     "link": "https://youtu.be/YU6sRWdzEMc?si=gO0ejZK1igQvIgZ5",
-    "start": 44,
-    "end": 51,
+    "start": 422,
+    "end": 429,
     "level": 3,
     "dialogue": [
       {
         "text": "What are you doing templon go go",
         "text_ko": "템플턴, 지금 뭐 하는 거야? 빨리 가, 가!",
-        "start": 44,
-        "end": 47
+        "start": 422,
+        "end": 425
       },
       {
         "text": "But that's jaywalking",
         "text_ko": "하지만 무단횡단인걸?",
-        "start": 47,
-        "end": 49
+        "start": 425,
+        "end": 427
       },
       {
         "text": "Here, I'll pay you your ticket",
         "text_ko": "여기, 내가 딱지(범칙금) 값 줄게!",
-        "start": 49,
-        "end": 51
+        "start": 427,
+        "end": 429
       }
     ]
   }
