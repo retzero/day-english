@@ -8,16 +8,19 @@
     "dialogue": [
       {
         "text": "Moana and they are not out there they're right",
+        "text_ko": "모아나, 그들은 저 멀리 있는 게 아니야. 바로 여기에 있어.",
         "start": 2340,
         "end": 2345
       },
       {
         "text": "Here, well it's about like you said it in front of your dad standing on a boat I didn't say go beyond the reef",
+        "text_ko": "여기야. 글쎄, 네가 배 위에 서서 아빠 앞에서 말한 것처럼, 난 암초 너머로 나가라고 한 적 없어.",
         "start": 2347,
         "end": 2351
       },
       {
         "text": "because I want to be the ocean but you still do he's hard on you",
+        "text_ko": "...내가 바다에 나가고 싶어서 그런 게 아니라고요. 하지만 넌 여전히 그러고 싶어 하잖아.",
         "start": 2357,
         "end": 2362
       }
@@ -32,11 +35,13 @@
     "dialogue": [
       {
         "text": "What are you doing templon go go but that's jaywalking",
+        "text_ko": "템플턴, 지금 뭐 하는 거야? 빨리 가, 가!",
         "start": 44,
         "end": 49
       },
       {
         "text": "Here, I'll pay you your ticket",
+        "text": "여기, 내가 딱지(범칙금) 값 줄게!",
         "start": 49,
         "end": 51
       }
