@@ -70,18 +70,18 @@
         "text": "You've seen an enchanted forest? ",
         "text_ko": "마법의 숲을 본 적이 있다고요?",
         "start": 102,
-        "end": 104
+        "end": 105
       },
       {
         "text": "Wait, what?",
         "text_ko": "잠깐만요, 뭐라고?",
-        "start": 104,
-        "end": 105
+        "start": 105,
+        "end": 106
       },
       {
         "text": "I have once.",
         "text_ko": "응, 한 번 있어.",
-        "start": 105,
+        "start": 106,
         "end": 108
       },
       {
