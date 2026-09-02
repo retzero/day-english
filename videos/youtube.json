@@ -19,9 +19,15 @@
         "end": 2351
       },
       {
-        "text": "because I want to be the ocean but you still do he's hard on you",
-        "text_ko": "...내가 바다에 나가고 싶어서 그런 게 아니라고요. 하지만 넌 여전히 그러고 싶어 하잖아.",
+        "text": "because I want to be the ocean",
+        "text_ko": "...내가 바다에 나가고 싶어서 그런 게 아니라고요.",
         "start": 2357,
+        "end": 2360
+      }
+      {
+        "text": but you still do he's hard on you",
+        "text_ko": "하지만 넌 여전히 그러고 싶어 하잖아.",
+        "start": 2350,
         "end": 2362
       }
     ]
@@ -37,11 +43,17 @@
         "text": "What are you doing templon go go but that's jaywalking",
         "text_ko": "템플턴, 지금 뭐 하는 거야? 빨리 가, 가!",
         "start": 44,
+        "end": 47
+      },
+      {
+        "text": "But that's jaywalking",
+        "text_ko": "하지만 무단횡단인걸?",
+        "start": 47,
         "end": 49
       },
       {
         "text": "Here, I'll pay you your ticket",
-        "text": "여기, 내가 딱지(범칙금) 값 줄게!",
+        "text_ko": "여기, 내가 딱지(범칙금) 값 줄게!",
         "start": 49,
         "end": 51
       }
